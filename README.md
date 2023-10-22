@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 소개
 
-## Getting Started
+Next.js 를 사용해서 웹 만들기
 
-First, run the development server:
+## 주요 기술 📚
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=typescript&logoColor=white" />
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 사용 출처 및 참고
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- `eslint`, `prettier` 설정 : [Next.js + TS에서 ESLint, Prettier 설정하기 (+ styled-components, airbnb, husky, lint-staged)](https://velog.io/@xmun74/Next.js-TS%EC%97%90%EC%84%9C-ESLint-Prettier-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+- `readme.md` 아이콘 이미지 : [Shields.io](https://shields.io/)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 업데이트 내역
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- `2023-10-22`
+  - 앱 초기 세팅
